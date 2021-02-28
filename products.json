@@ -1,0 +1,153 @@
+{
+    "pizza":[
+        {
+            "name":"Hawwaian pizza",
+            "price":800,
+            "categories":"pizza",
+            "rating":99
+        },
+        {
+            "name":"Burbeque pizza",
+            "price":850,
+            "categories":"pizza",
+            "rating":96
+            
+        },
+        {
+            "name":"Peporoni pizza",
+            "price":900,
+            "categories":"pizza",
+            "rating":84
+        },
+        {
+            "name":"Neapolitan pizza",
+            "price":1000,
+            "categories":"pizza",
+            "rating":88
+        },
+        
+        {
+            "name":"Dessert pizza",
+            "price":500,
+            "categories":"pizza",
+            "rating":96
+        },
+        {
+            "name":"Cheese pizza",
+            "price":900,
+            "categories":"pizza",
+            "rating":80
+        },
+        
+        {
+            "name":"Chicken Pizza",
+            "price":800,
+            "categories":"pizza",
+            "rating":99
+        },
+        {
+            "name":"Cheese pizza",
+            "price":900,
+            "categories":"pizza",
+            "rating":80
+        },
+        {
+            "name":"BBQ Chiken Pizza",
+            "price":900,
+            "categories":"pizza",
+            "rating": 100
+        }
+    ],
+
+
+
+    "lasanga":[
+    {
+        "name":"Lasanga",
+        "price":400,
+        "categories":"lasanga",
+        "rating":60
+    }
+],
+
+
+
+    "soda":[
+    {
+        "name":"Fanta Black Current",
+        "price":50,
+        "categories":"soda",
+        "rating": 90
+    },
+    {
+        "name":"Fanta Orange",
+        "price":50,
+        "categories":"soda",
+        "rating": 90
+    },
+    {
+        "name":"Fanta Pineaple",
+        "price":50,
+        "categories":"soda",
+        "rating": 90
+    },
+    {
+        "name":"Fanta Watermellon",
+        "price":50,
+        "categories":"soda",
+        "rating": 90
+    },
+    {
+        "name":"Coke",
+        "price":50,
+        "categories":"soda",
+        "rating": 90
+    },
+    {
+        "name":"Novida",
+        "price":50,
+        "categories":"soda",
+        "rating": 90
+    },
+    {
+        "name":"Sprite",
+        "price":50,
+        "categories":"soda",
+        "rating": 90
+    },
+    {
+        "name":"Juice",
+        "price":70,
+        "categories":"soda",
+        "rating": 90
+    },
+    {
+        "name":"Mountain Dew",
+        "price":50,
+        "categories":"soda",
+        "rating": 90
+    },
+    {
+        "name":"Pepsi",
+        "price":50,
+        "categories":"soda",
+        "rating": 90
+    }
+    ],
+
+
+    "energy drink":[
+        {
+            "name":"Lucozade",
+            "price":100,
+            "categories":"energy drink",
+            "rating": 90
+        },
+        {
+            "name":"Monster",
+            "price":100,
+            "categories":"energy drink",
+            "rating": 90
+        }
+    ]
+}
